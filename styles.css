@@ -11732,3 +11732,6 @@ html {
     left: -2vw;
   }
 }
+body {
+  font-family: 'Poppins', sans-serif;
+}
